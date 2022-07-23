@@ -2,7 +2,7 @@
 #Script Variables
 HOST='50.116.18.242';
 USER='loveyoun_kingvipnet';
-PASS='kingvipnet1@@';
+PASS='@@@kingvipnet';
 DBNAME='loveyoun_kingvipnet';
 PORT_TCP='1194';
 PORT_UDP='53';
